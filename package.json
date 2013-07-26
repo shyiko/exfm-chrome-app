@@ -1,0 +1,24 @@
+{
+    "name": "exfm-chrome-app",
+    "description": "Exfm Chrome App (unofficial)",
+    "version": "0.1.0",
+    "author": "Stanley Shyiko <stanley.shyiko@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shyiko/exfm-chrome-app.git"
+    },
+    "keywords": [
+        "exfm", "chrome", "app"
+    ],
+    "private": true,
+    "devDependencies": {
+        "grunt": "0.4.0",
+        "grunt-contrib-clean": "0.4.0",
+        "grunt-contrib-compress": "0.5.2",
+        "grunt-crx": "0.2.3"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}

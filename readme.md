@@ -16,9 +16,11 @@ Unofficial [Exfm](http://ex.fm) Chrome App.
     cd exfm-chrome-app
     npm install # this will install all required dependencies
 
-    grunt # for the CRX
+    grunt crx # for the CRX
     grunt zip # for zip distribution
 
 ## License
 
 [MIT License](http://opensource.org/licenses/mit-license.php)
+
+> src/chrome-app/images contains artwork by ex.fm, which may be a subject to a different license.

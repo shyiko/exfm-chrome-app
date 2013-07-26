@@ -1,0 +1,20 @@
+{
+    "name": "Exfm Chrome App (unofficial)",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "app": {
+        "background": {
+            "scripts": ["scripts/background.js"]
+        }
+    },
+    "description": "The best way to find and share music online for free.",
+    "icons": {
+        "16": "images/icon-16x16.png",
+        "48": "images/icon-48x48.png",
+        "128": "images/icon-128x128.png"
+    },
+    "minimum_chrome_version": "25",
+    "permissions": [
+        "webview"
+    ]
+}
