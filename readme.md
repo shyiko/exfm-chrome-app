@@ -1,4 +1,4 @@
-# exfm-chrome-extension
+# exfm-chrome-app
 
 Unofficial [Exfm](http://ex.fm) Chrome App.
 
