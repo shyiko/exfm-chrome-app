@@ -6,6 +6,8 @@ Unofficial [Exfm](http://ex.fm) Chrome App.
 
 ## Installation
 
+Until app gets into Chrome Web Store you'll need to follow 3 simple steps:
+
 1. Download [latest CRX](https://github.com/shyiko/exfm-chrome-app/releases)
 2. Open "chrome://extensions" (in Chrome)
 3. Drug and drop CRX package onto the Extensions page
