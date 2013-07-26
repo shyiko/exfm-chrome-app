@@ -2,6 +2,8 @@
 
 Unofficial [Exfm](http://ex.fm) Chrome App.
 
+![](http://i.minus.com/jnIpMxWqaFP7e.png)
+
 ## Installation
 
 1. Download [latest CRX](https://github.com/shyiko/exfm-chrome-app/releases)
